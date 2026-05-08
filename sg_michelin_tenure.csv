@@ -1,0 +1,64 @@
+restaurant,cuisine,tenure,peak_stars,first_year,last_year,is_active
+Burnt Ends,Barbecue,9,1,2016,2025,True
+Hill Street Tai Hwa Pork Noodle,Hawker,9,1,2016,2025,True
+Jaan by Kirk Westaway,French,9,2,2016,2025,True
+Lei Garden,Cantonese,9,1,2016,2025,True
+Les Amis,French,9,3,2016,2025,True
+Imperial Treasure Fine Teochew,Chinese,9,1,2016,2025,True
+Odette,French,9,3,2016,2025,True
+Waku Ghin,Japanese,9,2,2016,2025,True
+Tippling Club,Innovative,9,1,2016,2025,True
+Shoukouwa,Japanese,9,2,2016,2025,True
+Sushi Ichi,Japanese,9,1,2016,2025,True
+Shinji by Kanesaka (Carlton),Japanese,9,1,2016,2025,True
+Shisen Hanten,Chinese,9,2,2016,2025,True
+Putien (Kitchener Road),Hokkien,9,1,2016,2025,True
+Béni,French,8,1,2017,2025,True
+Crystal Jade Golden Palace,Chinese,8,1,2016,2024,False
+Rhubarb,French,8,1,2016,2024,False
+Labyrinth,Singaporean,7,1,2018,2025,True
+Esora,Japanese,7,1,2018,2025,True
+Braci,Italian,7,1,2018,2025,True
+Jiang-Nan Chun,Cantonese,7,1,2016,2023,False
+Whitegrass,Australian,7,1,2016,2025,True
+Sushi Kimura,Japanese,6,1,2019,2025,True
+Shang Palace,Cantonese,6,1,2016,2022,False
+Garibaldi,Italian,6,1,2016,2022,False
+Thevar,Indian,6,2,2019,2025,True
+Saint Pierre,French,5,2,2016,2021,False
+Cloudstreet,Innovative,5,2,2021,2025,True
+Forest,Chinese,5,1,2016,2021,False
+Empress,Cantonese,5,1,2021,2025,True
+Corner House,French,5,1,2016,2021,False
+Sushi Mitsuya,Japanese,5,1,2021,2025,True
+Zén,Swedish,5,3,2021,2025,True
+db Bistro & Oyster Bar,French,4,1,2016,2019,False
+Shinji by Kanesaka (St Regis),Japanese,4,1,2016,2019,False
+Alma,European,4,1,2016,2025,True
+Born,Innovative,4,1,2022,2025,True
+Tamashii Robataya,Japanese,4,1,2016,2019,False
+Sushi Yoshida,Japanese,4,1,2022,2025,True
+Iggy's,European,4,1,2016,2019,False
+Joël Robuchon Restaurant,French,4,3,2016,2019,False
+Meta,Innovative,4,2,2022,2025,True
+Nae:um,Korean,4,1,2022,2025,True
+Marguerite,Innovative,4,1,2022,2025,True
+Lerouy,French,3,1,2023,2025,True
+Bacchanalia,Innovative,3,1,2016,2018,False
+Goto,Japanese,3,1,2023,2025,True
+Naked Finn,Seafood,3,1,2023,2025,True
+Toyo Eatery,Filipino,3,1,2023,2025,True
+The Kitchen at Bacchanalia,Innovative,3,1,2019,2022,False
+Hong Kong Soya Sauce Chicken,Hawker,2,1,2016,2017,False
+Zafferano,Italian,2,1,2016,2017,False
+Terra,Italian,2,1,2017,2018,False
+L'Atelier de Joël Robuchon,French,2,2,2016,2017,False
+Sommer,Innovative,2,1,2024,2025,True
+Osia Steak and Seafood Grill,Australian,2,1,2016,2017,False
+Tables & Tales,European,2,1,2024,2025,True
+Ma Cuisine,French,1,1,2025,2025,True
+Julien Royer at LOTI,French,1,1,2025,2025,True
+Sky on 57,Innovative,1,1,2016,2016,False
+Roketto Izakaya,Japanese,1,1,2025,2025,True
+Sushi Sakuta,Japanese,1,2,2025,2025,True
+Yellow Pot,Cantonese,1,1,2025,2025,True

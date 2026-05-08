@@ -1,0 +1,327 @@
+restaurant,cuisine,year,stars,tenure,peak_stars,is_active,closure_year
+Joël Robuchon Restaurant,French,2016,3,4,3,False,2019.0
+Joël Robuchon Restaurant,French,2017,3,4,3,False,2019.0
+Joël Robuchon Restaurant,French,2018,3,4,3,False,2019.0
+Joël Robuchon Restaurant,French,2019,3,4,3,False,2019.0
+Les Amis,French,2016,2,9,3,True,
+Les Amis,French,2017,2,9,3,True,
+Les Amis,French,2018,2,9,3,True,
+Les Amis,French,2019,3,9,3,True,
+Les Amis,French,2021,3,9,3,True,
+Les Amis,French,2022,3,9,3,True,
+Les Amis,French,2023,3,9,3,True,
+Les Amis,French,2024,3,9,3,True,
+Les Amis,French,2025,3,9,3,True,
+Odette,French,2016,1,9,3,True,
+Odette,French,2017,2,9,3,True,
+Odette,French,2018,2,9,3,True,
+Odette,French,2019,3,9,3,True,
+Odette,French,2021,3,9,3,True,
+Odette,French,2022,3,9,3,True,
+Odette,French,2023,3,9,3,True,
+Odette,French,2024,3,9,3,True,
+Odette,French,2025,3,9,3,True,
+Zén,Swedish,2021,3,5,3,True,
+Zén,Swedish,2022,3,5,3,True,
+Zén,Swedish,2023,3,5,3,True,
+Zén,Swedish,2024,3,5,3,True,
+Zén,Swedish,2025,3,5,3,True,
+L'Atelier de Joël Robuchon,French,2016,2,2,2,False,2017.0
+L'Atelier de Joël Robuchon,French,2017,2,2,2,False,2017.0
+Shoukouwa,Japanese,2016,2,9,2,True,
+Shoukouwa,Japanese,2017,2,9,2,True,
+Shoukouwa,Japanese,2018,2,9,2,True,
+Shoukouwa,Japanese,2019,2,9,2,True,
+Shoukouwa,Japanese,2021,2,9,2,True,
+Shoukouwa,Japanese,2022,2,9,2,True,
+Shoukouwa,Japanese,2023,2,9,2,True,
+Shoukouwa,Japanese,2024,2,9,2,True,
+Shoukouwa,Japanese,2025,2,9,2,True,
+Waku Ghin,Japanese,2016,1,9,2,True,
+Waku Ghin,Japanese,2017,2,9,2,True,
+Waku Ghin,Japanese,2018,2,9,2,True,
+Waku Ghin,Japanese,2019,2,9,2,True,
+Waku Ghin,Japanese,2021,2,9,2,True,
+Waku Ghin,Japanese,2022,2,9,2,True,
+Waku Ghin,Japanese,2023,2,9,2,True,
+Waku Ghin,Japanese,2024,1,9,2,True,
+Waku Ghin,Japanese,2025,1,9,2,True,
+Shisen Hanten,Chinese,2016,2,9,2,True,
+Shisen Hanten,Chinese,2017,2,9,2,True,
+Shisen Hanten,Chinese,2018,2,9,2,True,
+Shisen Hanten,Chinese,2019,2,9,2,True,
+Shisen Hanten,Chinese,2021,2,9,2,True,
+Shisen Hanten,Chinese,2022,2,9,2,True,
+Shisen Hanten,Chinese,2023,1,9,2,True,
+Shisen Hanten,Chinese,2024,1,9,2,True,
+Shisen Hanten,Chinese,2025,1,9,2,True,
+Saint Pierre,French,2016,1,5,2,False,2021.0
+Saint Pierre,French,2017,1,5,2,False,2021.0
+Saint Pierre,French,2018,1,5,2,False,2021.0
+Saint Pierre,French,2019,2,5,2,False,2021.0
+Saint Pierre,French,2021,2,5,2,False,2021.0
+Jaan by Kirk Westaway,French,2016,1,9,2,True,
+Jaan by Kirk Westaway,French,2017,1,9,2,True,
+Jaan by Kirk Westaway,French,2018,1,9,2,True,
+Jaan by Kirk Westaway,French,2019,1,9,2,True,
+Jaan by Kirk Westaway,French,2021,2,9,2,True,
+Jaan by Kirk Westaway,French,2022,2,9,2,True,
+Jaan by Kirk Westaway,French,2023,2,9,2,True,
+Jaan by Kirk Westaway,French,2024,2,9,2,True,
+Jaan by Kirk Westaway,French,2025,2,9,2,True,
+Cloudstreet,Innovative,2021,1,5,2,True,
+Cloudstreet,Innovative,2022,2,5,2,True,
+Cloudstreet,Innovative,2023,2,5,2,True,
+Cloudstreet,Innovative,2024,2,5,2,True,
+Cloudstreet,Innovative,2025,2,5,2,True,
+Thevar,Indian,2019,1,6,2,True,
+Thevar,Indian,2021,1,6,2,True,
+Thevar,Indian,2022,2,6,2,True,
+Thevar,Indian,2023,2,6,2,True,
+Thevar,Indian,2024,2,6,2,True,
+Thevar,Indian,2025,2,6,2,True,
+Meta,Innovative,2022,1,4,2,True,
+Meta,Innovative,2023,1,4,2,True,
+Meta,Innovative,2024,2,4,2,True,
+Meta,Innovative,2025,2,4,2,True,
+Sushi Sakuta,Japanese,2025,2,1,2,True,
+Alma,European,2016,1,4,1,True,
+Alma,European,2017,1,4,1,True,
+Alma,European,2024,1,4,1,True,
+Alma,European,2025,1,4,1,True,
+Bacchanalia,Innovative,2016,1,3,1,False,2018.0
+Bacchanalia,Innovative,2017,1,3,1,False,2018.0
+Bacchanalia,Innovative,2018,1,3,1,False,2018.0
+Béni,French,2017,1,8,1,True,
+Béni,French,2018,1,8,1,True,
+Béni,French,2019,1,8,1,True,
+Béni,French,2021,1,8,1,True,
+Béni,French,2022,1,8,1,True,
+Béni,French,2023,1,8,1,True,
+Béni,French,2024,1,8,1,True,
+Béni,French,2025,1,8,1,True,
+Born,Innovative,2022,1,4,1,True,
+Born,Innovative,2023,1,4,1,True,
+Born,Innovative,2024,1,4,1,True,
+Born,Innovative,2025,1,4,1,True,
+Braci,Italian,2018,1,7,1,True,
+Braci,Italian,2019,1,7,1,True,
+Braci,Italian,2021,1,7,1,True,
+Braci,Italian,2022,1,7,1,True,
+Braci,Italian,2023,1,7,1,True,
+Braci,Italian,2024,1,7,1,True,
+Braci,Italian,2025,1,7,1,True,
+Burnt Ends,Barbecue,2016,1,9,1,True,
+Burnt Ends,Barbecue,2017,1,9,1,True,
+Burnt Ends,Barbecue,2018,1,9,1,True,
+Burnt Ends,Barbecue,2019,1,9,1,True,
+Burnt Ends,Barbecue,2021,1,9,1,True,
+Burnt Ends,Barbecue,2022,1,9,1,True,
+Burnt Ends,Barbecue,2023,1,9,1,True,
+Burnt Ends,Barbecue,2024,1,9,1,True,
+Burnt Ends,Barbecue,2025,1,9,1,True,
+Corner House,French,2016,1,5,1,False,2021.0
+Corner House,French,2017,1,5,1,False,2021.0
+Corner House,French,2018,1,5,1,False,2021.0
+Corner House,French,2019,1,5,1,False,2021.0
+Corner House,French,2021,1,5,1,False,2021.0
+Crystal Jade Golden Palace,Chinese,2016,1,8,1,False,2024.0
+Crystal Jade Golden Palace,Chinese,2017,1,8,1,False,2024.0
+Crystal Jade Golden Palace,Chinese,2018,1,8,1,False,2024.0
+Crystal Jade Golden Palace,Chinese,2019,1,8,1,False,2024.0
+Crystal Jade Golden Palace,Chinese,2021,1,8,1,False,2024.0
+Crystal Jade Golden Palace,Chinese,2022,1,8,1,False,2024.0
+Crystal Jade Golden Palace,Chinese,2023,1,8,1,False,2024.0
+Crystal Jade Golden Palace,Chinese,2024,1,8,1,False,2024.0
+db Bistro & Oyster Bar,French,2016,1,4,1,False,2019.0
+db Bistro & Oyster Bar,French,2017,1,4,1,False,2019.0
+db Bistro & Oyster Bar,French,2018,1,4,1,False,2019.0
+db Bistro & Oyster Bar,French,2019,1,4,1,False,2019.0
+Empress,Cantonese,2021,1,5,1,True,
+Empress,Cantonese,2022,1,5,1,True,
+Empress,Cantonese,2023,1,5,1,True,
+Empress,Cantonese,2024,1,5,1,True,
+Empress,Cantonese,2025,1,5,1,True,
+Esora,Japanese,2018,1,7,1,True,
+Esora,Japanese,2019,1,7,1,True,
+Esora,Japanese,2021,1,7,1,True,
+Esora,Japanese,2022,1,7,1,True,
+Esora,Japanese,2023,1,7,1,True,
+Esora,Japanese,2024,1,7,1,True,
+Esora,Japanese,2025,1,7,1,True,
+Forest,Chinese,2016,1,5,1,False,2021.0
+Forest,Chinese,2017,1,5,1,False,2021.0
+Forest,Chinese,2018,1,5,1,False,2021.0
+Forest,Chinese,2019,1,5,1,False,2021.0
+Forest,Chinese,2021,1,5,1,False,2021.0
+Garibaldi,Italian,2016,1,6,1,False,2022.0
+Garibaldi,Italian,2017,1,6,1,False,2022.0
+Garibaldi,Italian,2018,1,6,1,False,2022.0
+Garibaldi,Italian,2019,1,6,1,False,2022.0
+Garibaldi,Italian,2021,1,6,1,False,2022.0
+Garibaldi,Italian,2022,1,6,1,False,2022.0
+Goto,Japanese,2023,1,3,1,True,
+Goto,Japanese,2024,1,3,1,True,
+Goto,Japanese,2025,1,3,1,True,
+Hill Street Tai Hwa Pork Noodle,Hawker,2016,1,9,1,True,
+Hill Street Tai Hwa Pork Noodle,Hawker,2017,1,9,1,True,
+Hill Street Tai Hwa Pork Noodle,Hawker,2018,1,9,1,True,
+Hill Street Tai Hwa Pork Noodle,Hawker,2019,1,9,1,True,
+Hill Street Tai Hwa Pork Noodle,Hawker,2021,1,9,1,True,
+Hill Street Tai Hwa Pork Noodle,Hawker,2022,1,9,1,True,
+Hill Street Tai Hwa Pork Noodle,Hawker,2023,1,9,1,True,
+Hill Street Tai Hwa Pork Noodle,Hawker,2024,1,9,1,True,
+Hill Street Tai Hwa Pork Noodle,Hawker,2025,1,9,1,True,
+Hong Kong Soya Sauce Chicken,Hawker,2016,1,2,1,False,2017.0
+Hong Kong Soya Sauce Chicken,Hawker,2017,1,2,1,False,2017.0
+Iggy's,European,2016,1,4,1,False,2019.0
+Iggy's,European,2017,1,4,1,False,2019.0
+Iggy's,European,2018,1,4,1,False,2019.0
+Iggy's,European,2019,1,4,1,False,2019.0
+Imperial Treasure Fine Teochew,Chinese,2016,1,9,1,True,
+Imperial Treasure Fine Teochew,Chinese,2017,1,9,1,True,
+Imperial Treasure Fine Teochew,Chinese,2018,1,9,1,True,
+Imperial Treasure Fine Teochew,Chinese,2019,1,9,1,True,
+Imperial Treasure Fine Teochew,Chinese,2021,1,9,1,True,
+Imperial Treasure Fine Teochew,Chinese,2022,1,9,1,True,
+Imperial Treasure Fine Teochew,Chinese,2023,1,9,1,True,
+Imperial Treasure Fine Teochew,Chinese,2024,1,9,1,True,
+Imperial Treasure Fine Teochew,Chinese,2025,1,9,1,True,
+Jiang-Nan Chun,Cantonese,2016,1,7,1,False,2023.0
+Jiang-Nan Chun,Cantonese,2017,1,7,1,False,2023.0
+Jiang-Nan Chun,Cantonese,2018,1,7,1,False,2023.0
+Jiang-Nan Chun,Cantonese,2019,1,7,1,False,2023.0
+Jiang-Nan Chun,Cantonese,2021,1,7,1,False,2023.0
+Jiang-Nan Chun,Cantonese,2022,1,7,1,False,2023.0
+Jiang-Nan Chun,Cantonese,2023,1,7,1,False,2023.0
+Julien Royer at LOTI,French,2025,1,1,1,True,
+Labyrinth,Singaporean,2018,1,7,1,True,
+Labyrinth,Singaporean,2019,1,7,1,True,
+Labyrinth,Singaporean,2021,1,7,1,True,
+Labyrinth,Singaporean,2022,1,7,1,True,
+Labyrinth,Singaporean,2023,1,7,1,True,
+Labyrinth,Singaporean,2024,1,7,1,True,
+Labyrinth,Singaporean,2025,1,7,1,True,
+Lei Garden,Cantonese,2016,1,9,1,True,
+Lei Garden,Cantonese,2017,1,9,1,True,
+Lei Garden,Cantonese,2018,1,9,1,True,
+Lei Garden,Cantonese,2019,1,9,1,True,
+Lei Garden,Cantonese,2021,1,9,1,True,
+Lei Garden,Cantonese,2022,1,9,1,True,
+Lei Garden,Cantonese,2023,1,9,1,True,
+Lei Garden,Cantonese,2024,1,9,1,True,
+Lei Garden,Cantonese,2025,1,9,1,True,
+Lerouy,French,2023,1,3,1,True,
+Lerouy,French,2024,1,3,1,True,
+Lerouy,French,2025,1,3,1,True,
+Ma Cuisine,French,2025,1,1,1,True,
+Marguerite,Innovative,2022,1,4,1,True,
+Marguerite,Innovative,2023,1,4,1,True,
+Marguerite,Innovative,2024,1,4,1,True,
+Marguerite,Innovative,2025,1,4,1,True,
+Nae:um,Korean,2022,1,4,1,True,
+Nae:um,Korean,2023,1,4,1,True,
+Nae:um,Korean,2024,1,4,1,True,
+Nae:um,Korean,2025,1,4,1,True,
+Naked Finn,Seafood,2023,1,3,1,True,
+Naked Finn,Seafood,2024,1,3,1,True,
+Naked Finn,Seafood,2025,1,3,1,True,
+Osia Steak and Seafood Grill,Australian,2016,1,2,1,False,2017.0
+Osia Steak and Seafood Grill,Australian,2017,1,2,1,False,2017.0
+Putien (Kitchener Road),Hokkien,2016,1,9,1,True,
+Putien (Kitchener Road),Hokkien,2017,1,9,1,True,
+Putien (Kitchener Road),Hokkien,2018,1,9,1,True,
+Putien (Kitchener Road),Hokkien,2019,1,9,1,True,
+Putien (Kitchener Road),Hokkien,2021,1,9,1,True,
+Putien (Kitchener Road),Hokkien,2022,1,9,1,True,
+Putien (Kitchener Road),Hokkien,2023,1,9,1,True,
+Putien (Kitchener Road),Hokkien,2024,1,9,1,True,
+Putien (Kitchener Road),Hokkien,2025,1,9,1,True,
+Rhubarb,French,2016,1,8,1,False,2024.0
+Rhubarb,French,2017,1,8,1,False,2024.0
+Rhubarb,French,2018,1,8,1,False,2024.0
+Rhubarb,French,2019,1,8,1,False,2024.0
+Rhubarb,French,2021,1,8,1,False,2024.0
+Rhubarb,French,2022,1,8,1,False,2024.0
+Rhubarb,French,2023,1,8,1,False,2024.0
+Rhubarb,French,2024,1,8,1,False,2024.0
+Roketto Izakaya,Japanese,2025,1,1,1,True,
+Sommer,Innovative,2024,1,2,1,True,
+Sommer,Innovative,2025,1,2,1,True,
+Shang Palace,Cantonese,2016,1,6,1,False,2022.0
+Shang Palace,Cantonese,2017,1,6,1,False,2022.0
+Shang Palace,Cantonese,2018,1,6,1,False,2022.0
+Shang Palace,Cantonese,2019,1,6,1,False,2022.0
+Shang Palace,Cantonese,2021,1,6,1,False,2022.0
+Shang Palace,Cantonese,2022,1,6,1,False,2022.0
+Shinji by Kanesaka (Carlton),Japanese,2016,1,9,1,True,
+Shinji by Kanesaka (Carlton),Japanese,2017,1,9,1,True,
+Shinji by Kanesaka (Carlton),Japanese,2018,1,9,1,True,
+Shinji by Kanesaka (Carlton),Japanese,2019,1,9,1,True,
+Shinji by Kanesaka (Carlton),Japanese,2021,1,9,1,True,
+Shinji by Kanesaka (Carlton),Japanese,2022,1,9,1,True,
+Shinji by Kanesaka (Carlton),Japanese,2023,1,9,1,True,
+Shinji by Kanesaka (Carlton),Japanese,2024,1,9,1,True,
+Shinji by Kanesaka (Carlton),Japanese,2025,1,9,1,True,
+Shinji by Kanesaka (St Regis),Japanese,2016,1,4,1,False,2019.0
+Shinji by Kanesaka (St Regis),Japanese,2017,1,4,1,False,2019.0
+Shinji by Kanesaka (St Regis),Japanese,2018,1,4,1,False,2019.0
+Shinji by Kanesaka (St Regis),Japanese,2019,1,4,1,False,2019.0
+Sky on 57,Innovative,2016,1,1,1,False,2016.0
+Sushi Ichi,Japanese,2016,1,9,1,True,
+Sushi Ichi,Japanese,2017,1,9,1,True,
+Sushi Ichi,Japanese,2018,1,9,1,True,
+Sushi Ichi,Japanese,2019,1,9,1,True,
+Sushi Ichi,Japanese,2021,1,9,1,True,
+Sushi Ichi,Japanese,2022,1,9,1,True,
+Sushi Ichi,Japanese,2023,1,9,1,True,
+Sushi Ichi,Japanese,2024,1,9,1,True,
+Sushi Ichi,Japanese,2025,1,9,1,True,
+Sushi Kimura,Japanese,2019,1,6,1,True,
+Sushi Kimura,Japanese,2021,1,6,1,True,
+Sushi Kimura,Japanese,2022,1,6,1,True,
+Sushi Kimura,Japanese,2023,1,6,1,True,
+Sushi Kimura,Japanese,2024,1,6,1,True,
+Sushi Kimura,Japanese,2025,1,6,1,True,
+Sushi Mitsuya,Japanese,2021,1,5,1,True,
+Sushi Mitsuya,Japanese,2022,1,5,1,True,
+Sushi Mitsuya,Japanese,2023,1,5,1,True,
+Sushi Mitsuya,Japanese,2024,1,5,1,True,
+Sushi Mitsuya,Japanese,2025,1,5,1,True,
+Sushi Yoshida,Japanese,2022,1,4,1,True,
+Sushi Yoshida,Japanese,2023,1,4,1,True,
+Sushi Yoshida,Japanese,2024,1,4,1,True,
+Sushi Yoshida,Japanese,2025,1,4,1,True,
+Tables & Tales,European,2024,1,2,1,True,
+Tables & Tales,European,2025,1,2,1,True,
+Tamashii Robataya,Japanese,2016,1,4,1,False,2019.0
+Tamashii Robataya,Japanese,2017,1,4,1,False,2019.0
+Tamashii Robataya,Japanese,2018,1,4,1,False,2019.0
+Tamashii Robataya,Japanese,2019,1,4,1,False,2019.0
+Terra,Italian,2017,1,2,1,False,2018.0
+Terra,Italian,2018,1,2,1,False,2018.0
+The Kitchen at Bacchanalia,Innovative,2019,1,3,1,False,2022.0
+The Kitchen at Bacchanalia,Innovative,2021,1,3,1,False,2022.0
+The Kitchen at Bacchanalia,Innovative,2022,1,3,1,False,2022.0
+Tippling Club,Innovative,2016,1,9,1,True,
+Tippling Club,Innovative,2017,1,9,1,True,
+Tippling Club,Innovative,2018,1,9,1,True,
+Tippling Club,Innovative,2019,1,9,1,True,
+Tippling Club,Innovative,2021,1,9,1,True,
+Tippling Club,Innovative,2022,1,9,1,True,
+Tippling Club,Innovative,2023,1,9,1,True,
+Tippling Club,Innovative,2024,1,9,1,True,
+Tippling Club,Innovative,2025,1,9,1,True,
+Toyo Eatery,Filipino,2023,1,3,1,True,
+Toyo Eatery,Filipino,2024,1,3,1,True,
+Toyo Eatery,Filipino,2025,1,3,1,True,
+Whitegrass,Australian,2016,1,7,1,True,
+Whitegrass,Australian,2017,1,7,1,True,
+Whitegrass,Australian,2018,1,7,1,True,
+Whitegrass,Australian,2022,1,7,1,True,
+Whitegrass,Australian,2023,1,7,1,True,
+Whitegrass,Australian,2024,1,7,1,True,
+Whitegrass,Australian,2025,1,7,1,True,
+Yellow Pot,Cantonese,2025,1,1,1,True,
+Zafferano,Italian,2016,1,2,1,False,2017.0
+Zafferano,Italian,2017,1,2,1,False,2017.0
