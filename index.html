@@ -291,11 +291,11 @@
 </header>
 
 <nav>
-  <button class="active" onclick="showTab('overview')">Overview</button>
-  <button onclick="showTab('timeline')">Timeline</button>
-  <button onclick="showTab('longevity')">Longevity</button>
-  <button onclick="showTab('events')">Promotions & Losses</button>
-  <button onclick="showTab('cuisine')">By Cuisine</button>
+  <button class="active" data-tab="overview" onclick="showTab('overview')">Overview</button>
+  <button data-tab="timeline" onclick="showTab('timeline')">Timeline</button>
+  <button data-tab="longevity" onclick="showTab('longevity')">Longevity</button>
+  <button data-tab="events" onclick="showTab('events')">Promotions & Losses</button>
+  <button data-tab="cuisine" onclick="showTab('cuisine')">By Cuisine</button>
 </nav>
 
 <main>
@@ -651,12 +651,18 @@ function buildCuisine() {
 // ── TABS ─────────────────────────────────────────────────────────
 const tabBuilt = {};
 function showTab(name) {
+  // Matched by the button's stable data-tab attribute, not its visible text --
+  // the previous version matched on `button.textContent.includes(name)`, which
+  // silently failed for the "events" tab (button text is "Promotions & Losses",
+  // which doesn't contain "events" anywhere) and left whichever tab was
+  // PREVIOUSLY selected still highlighted after switching to it. A second,
+  // redundant click listener had been bolted on elsewhere to paper over the
+  // same symptom rather than fixing the root cause; removed in favor of this
+  // single correct implementation.
   document.querySelectorAll('.tab-section').forEach(s => s.classList.remove('visible'));
   document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
   document.getElementById('tab-'+name).classList.add('visible');
-  document.querySelectorAll('nav button').forEach(b => {
-    if (b.textContent.toLowerCase().includes(name.toLowerCase().split('-')[0])) b.classList.add('active');
-  });
+  document.querySelector(`nav button[data-tab="${name}"]`).classList.add('active');
   if (!tabBuilt[name]) {
     tabBuilt[name] = true;
     if (name === 'timeline') buildTimeline();
@@ -665,14 +671,6 @@ function showTab(name) {
     if (name === 'cuisine') buildCuisine();
   }
 }
-
-// Fix nav button matching
-document.querySelectorAll('nav button').forEach(b => {
-  b.addEventListener('click', () => {
-    document.querySelectorAll('nav button').forEach(x => x.classList.remove('active'));
-    b.classList.add('active');
-  });
-});
 
 // ── INIT ─────────────────────────────────────────────────────────
 window.addEventListener('load', () => {
