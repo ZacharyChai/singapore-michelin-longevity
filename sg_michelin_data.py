@@ -1,5 +1,10 @@
-import pandas as pd
 import json
+from pathlib import Path
+
+import pandas as pd
+
+# Outputs land next to this script, wherever the repo is cloned.
+OUT_DIR = Path(__file__).resolve().parent
 
 # ─────────────────────────────────────────────────────────────────────
 # SINGAPORE MICHELIN GUIDE – VERIFIED DATASET 2016-2025
@@ -172,9 +177,9 @@ print("\nTop 15 by tenure:")
 print(tenure_df.head(15)[["restaurant","cuisine","tenure","peak_stars","first_year","is_active"]].to_string())
 
 # ── Save outputs ─────────────────────────────────────────────────────
-df.to_csv("/home/claude/sg_michelin_wide.csv", index=False)
-panel.to_csv("/home/claude/sg_michelin_panel.csv", index=False)
-tenure_df.to_csv("/home/claude/sg_michelin_tenure.csv", index=False)
+df.to_csv(OUT_DIR / "sg_michelin_wide.csv", index=False)
+panel.to_csv(OUT_DIR / "sg_michelin_panel.csv", index=False)
+tenure_df.to_csv(OUT_DIR / "sg_michelin_tenure.csv", index=False)
 
 # ── Export as JSON for dashboard ────────────────────────────────────
 # Per-restaurant full history
@@ -236,7 +241,7 @@ data_export = {
     "cuisine_stats": cuisine_stats.to_dict(orient="records"),
 }
 
-with open("/home/claude/michelin_data.json", "w") as f:
+with open(OUT_DIR / "michelin_data.json", "w") as f:
     json.dump(data_export, f, indent=2)
 
 print("\nData exported successfully.")

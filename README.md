@@ -31,7 +31,7 @@ The interactive dashboard (`index.html`) runs entirely in the browser — no ser
 |-----|--------------|
 | Overview | Key stats + stacked bar chart of the guide's growth by edition |
 | Timeline | Gantt-style grid of every restaurant's star history, filterable by status and searchable by name |
-| Longevity | All 63 restaurants ranked by tenure, colour-coded by peak star tier |
+| Longevity | All 63 restaurants ranked by tenure, color-coded by peak star tier |
 | Promotions & Losses | Every star movement catalogued — promotions, demotions, and closures |
 | By Cuisine | Average tenure ranked by cuisine type |
  
